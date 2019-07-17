@@ -1,0 +1,11 @@
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\bin\Debug\AutoYoutube.dll
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\bin\Debug\AutoYoutube.pdb
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\bin\Debug\nunit.framework.dll
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\bin\Debug\WebDriver.dll
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\bin\Debug\WebDriver.Support.dll
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\bin\Debug\nunit.framework.xml
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\bin\Debug\WebDriver.xml
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\bin\Debug\WebDriver.Support.xml
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\obj\Debug\AutoYoutube.csprojResolveAssemblyReference.cache
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\obj\Debug\AutoYoutube.dll
+D:\POC\GithubMultiBranch\AutoYoutube\AutoYoutube\obj\Debug\AutoYoutube.pdb
